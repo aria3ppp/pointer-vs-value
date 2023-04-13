@@ -37,4 +37,5 @@ BenchmarkSixteenFieldStringStruct/pointer-4             1000000000              
 
 ### TLDR
 Golang is a fast enough programming language and 8 nano seconds is not that big a deal!
+
 So feel free to [write simple and readable code](https://www.youtube.com/watch?v=PAAkCSZUG1c&t=14m35s) and try not to be smart!
